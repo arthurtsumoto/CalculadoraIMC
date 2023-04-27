@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="message">Olá Tsumoto!</string>
+    <string name="hint">Digite seu peso</string>
+    <string name="hint2">Digite sua altura</string>
+    <string name="imc">Seu IMC é:</string>
+    <string name="message_classificação">Classificação: %1$s!</string>
+    <string name="message_tabela">Veja a tabela abaixo:</string>
+    <string name="message_tabelaimc">         Menor que 18,5: Magreza
+         18,5 a 24,9: Peso normal
+         25 a 29,9:	Sobrepeso
+         30 a 39,9:	Obesidade
+         Maior que 40:	Obesidade severa</string>
+</resources>
